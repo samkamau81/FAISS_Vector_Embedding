@@ -1,4 +1,9 @@
 # FAISS_Vector_Embedding
+ The system leverages NLP techniques to extract insights from customer feedback, enabling semantic search, automated summarization, and sentiment analysis. My implementation focuses on three key components:
+- document processing
+- LLM applications
+- sentiment analysis.
+-----------
 ![vd1](https://github.com/user-attachments/assets/284a01a7-b438-440d-a6ca-30094c0b3ccb)
 ![vd2](https://github.com/user-attachments/assets/14984708-8a5f-4246-b959-240d8349abe2)
 ![vd3](https://github.com/user-attachments/assets/44d08fd2-ec4e-4665-b4b5-575509dd7198)
