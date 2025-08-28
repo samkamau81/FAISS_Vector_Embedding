@@ -134,6 +134,5 @@ make ingest DOCS_PATH=./samples
 curl -X POST http://localhost:8080/chat \
   -H "Content-Type: application/json" \
   -d '{"message":"Summarize latest refund policy","persona":"support"}'
-
-'''  
+```
 
